@@ -1,0 +1,6 @@
+{
+  "name": "Five Nights At Milka 2",
+  "description": "П'ять Ночей з Мілкою 2 - Офіційне оновлене продовження популярної хорор-гри від Milkas Studio з новими люками вентиляції, покращеним планшетом та улюбленими героями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
